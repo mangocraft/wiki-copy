@@ -9,7 +9,7 @@
 芒果方块服务器至今已运营三年的时间，在这三年的时间里收获了无数的好评与认可。
 芒果方块期待每一位高素质玩家的到来，与我们共同续写这个世界的故事！
 
-[芒果方块B站主页](https://space.bilibili.com/23240466) | [芒果方块官网](https://www.mgcraft.net) | [新人指南](nyaa/beginners-guide.md) | [服务器规则](nyaa/rules.md) | [世界地图](https://map.mgcraft.net/)
+[芒果方块B站主页](https://space.bilibili.com/23240466) | [芒果方块官网](https://www.mgcraft.net) | [新人指南](firstday.md) | [服务器规则](nyaa/rules.md) | [世界地图](https://map.mgcraft.net/)
 
 欢迎[参与贡献](wiki/contribute.md)，让知识库变得更好。
 
