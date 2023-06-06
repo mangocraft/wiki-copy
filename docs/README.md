@@ -3,6 +3,8 @@
 
 ### 关于 芒果方块粉丝服
 
+![logo](https://mgcimg-1251689388.cos.ap-shanghai.myqcloud.com/wiki/1.png) 
+
 芒果方块是一家以Minecraft为创作核心的视频创作团队，创作有MC纪录片This is My
  Minecraft等视频项目，目前在全网有上万粉丝。
 而芒果方块服务器是芒果方块从2020年2月起运营的一项纯公益项目（不接受任何赞助），
