@@ -127,10 +127,10 @@
 ![lvguan](https://mgcimg-1251689388.cos.ap-shanghai.myqcloud.com/wiki/lvguan.jpg) 
 * 类型：服务器级规划区
 * 所在区域：三城区南大陆东
-* 现任队长/镇长：Sleepyhead
+* 现任队长/镇长：Detergent1108（3243578968）
 * 简介：
-  * 成就服时期的大型建筑群之一
-  * 加入链接：
+  * ﻿起源于成就服，大多数为学生，上线时间有限，创立的初衷是为了帮助他人，并非长期队伍，请三思加入
+  * 加入链接：【腾讯文档】“旅馆”队伍加入申请表 https://docs.qq.com/form/page/DVUVFSm1McFpsaE1I
 
 #### 光怪陆离
 ![guangguailuli](https://mgcimg-1251689388.cos.ap-shanghai.myqcloud.com/wiki/guangguailuli.jpg) 
@@ -247,7 +247,7 @@
 ![ye](https://mgcimg-1251689388.cos.ap-shanghai.myqcloud.com/wiki/yejiazhuang.jpg)
 * 类型：组织级规划区
 * 所在区域：三城区西大陆
-* 现任队长/镇长：Yeqing233
+* 现任队长/镇长：xiaoxisama
 * 简介：
   * 3服时代大型建筑群之一
   * 加入链接：
@@ -275,19 +275,32 @@
 ![base](https://mgcimg-1251689388.cos.ap-shanghai.myqcloud.com/wiki/base.jpg)
 * 类型：组织级规划区
 * 所在区域：三城区南大陆-贝斯小岛
-* 现任队长/镇长：EarliestThyme57
+* 现任队长/镇长：Learn
 * 简介：
   * 因直播火起来的一个小岛
   * 加入链接：
 
-### 新成就基地（NEW BASE）
+### 方谷
 ![newbase](https://mgcimg-1251689388.cos.ap-shanghai.myqcloud.com/wiki/newbase.jpg)
 * 类型：组织级规划区
 * 所在区域：
-* 现任队长/镇长：EarliestThyme57
+* 现任队长/镇长：Detergent1108（3243578968）
 * 简介：
   * 成就基地的新基地
-  * 加入链接：
+  * 加入链接：【腾讯文档】方谷队伍加入申请表 https://docs.qq.com/form/page/DVWFOdUxpekdFa01D
+
+### 晚风
+![wanfeng](https://mgcimg-1251689388.cos.ap-shanghai.myqcloud.com/wiki/n.jpg)
+* 类型：组织级规划区
+* 所在区域：
+* 现任队长/镇长：EarliestThyme57（1874593227）
+* 简介：
+  * 有成型的组织大楼，供成员工作，储存，居住，外交等
+  * 对内，共同经营，劳动成果共有，鼓励每个人发挥自己擅长之处为整个队伍做贡献
+  * 设有外交大楼，欢迎服务器其他玩家或队伍组织与我们进行交流
+  * 不赞成在队伍领地附近建中大型机器，队伍内部生活以养老为主
+  * 目前队伍领地建筑不断完善中
+  * 加入链接：【腾讯文档】晚风队伍组织加入申请表 https://docs.qq.com/form/page/DQ0lZbEFsU1pyc3No
 
 ### 肝帝小镇
 ![gandi](https://mgcimg-1251689388.cos.ap-shanghai.myqcloud.com/wiki/gandi.jpg)
