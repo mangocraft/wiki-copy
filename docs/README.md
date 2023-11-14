@@ -12,13 +12,13 @@
 芒果方块服务器至今已运营三年的时间，在这三年的时间里收获了无数的好评与认可。
 芒果方块期待每一位高素质玩家的到来，与我们共同续写这个世界的故事！
 
-[芒果方块B站主页](https://space.bilibili.com/23240466) | [芒果方块官网](https://www.mgcraft.net) | [新人指南](nyaa/beginners-guide.md) | [服务器规则](rule.md) | [世界地图](https://map.mgcraft.net/)
+[芒果方块B站主页](https://space.bilibili.com/23240466) | [芒果方块官网](https://www.mgcraft.net) | [新人指南](firstday.md) | [服务器规则](rule.md) | [世界地图](https://map.mangocraft.cn:2087)
 
 欢迎[参与贡献](wiki/contribute.md)，让知识库变得更好。
 
 ### 加入游戏
 
-服务器版本 Java 1.19.2/Be 1.19.x（互通服）、Be 1.16.x（生电服）
+服务器版本 Java 1.20.Z/Be 1.20.x（互通服）、Be 1.16.x（生电服）
 
 
 申请芒果方块粉丝服白名单请加入芒果方块粉丝群（872852435）并通过群公告申请白名单。
