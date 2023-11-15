@@ -8,25 +8,13 @@
 
 --------
 
-## 原版整合包（客户端）
+## 芒果方块基础优化整合包（Java版）
 
-### Minecraft 1.19.2
+### 版本：与服务器版本一样保持最新
 
-?> :heart: **luo 1.19.2优化整合包**
+?> :heart: [详情了解](https://www.bilibili.com/opus/863777314039660593) ****
 
-由 *luo* 整理，在芒果方块粉丝群3 发布。  
-
-### [Fabric] Sodium :id=sodium
-
-可以大幅提升游玩时的**帧率**，尤其在核芯（集成）显卡、入门独显平台上。<br />
-当前支持 1.16.1 及以上版本，仅支持 Fabric 框架。
-
-- MCBBS 上的[介绍](https://www.mcbbs.net/thread-1079347-1-1.html)
-- [GitHub 下载地址](https://github.com/jellysquid3/sodium-fabric/releases)
-- [CurseForge 下载地址](https://www.curseforge.com/minecraft/mc-mods/sodium/files)
-
-!> **Optifine 和 Sodium 不兼容。** 使用本插件前，须先移除/禁用 OptiFabric 和 Optifine，反之亦然。  
-除提高性能以外，其并不能取代 Optifine（包括光影、披风、资源包的额外特性等）。
+由 *芒果方块* 制作，在芒果方块粉丝群及QQ频道发布。  
 
 
 ## 资源包（材质）
@@ -44,18 +32,3 @@
 - [BSL Shaders](https://bitslablab.com/bslshaders/)
 - [SEUS (Sonic Ether’s Unbelievable Shaders)](https://www.sonicether.com/seus/)
 - [Chocapic13' Shaders](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)
-
-
-<!--
-## Minecraft 正版许可
-
-由于在升级成为正版服务器的时候仍有一些玩家还没有购买正版，因此我们决定向没有收入能力的学生玩家免费提供正版许可。
-
-您必须是本服的玩家，能够证明自己是学生并且还没有购买正版，请邮件或在社群 / QQ 群联系管理组获得正版许可。
-
-依据 MinecraftEdu 的协议， 您如果希望获得一份由喵窝提供的 GiftCode，您需要同意以下协议：
-
--   您保证您目前是一名在读学生。
--   您保证您使用由此 GiftCode 激活的 Minecraft 账号是以学习为目的。
--   您保证您不会以任何方式再次出售（或者赠送）此 GiftCode 和此 GiftCode 激活的账号。
--->
