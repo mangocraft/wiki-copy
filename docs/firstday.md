@@ -10,9 +10,8 @@
 [芒果方块B站主页](https://space.bilibili.com/23240466) | [芒果方块官网](https://www.mgcraft.net) | [新人指南](firstday.md) | [服务器规则](rules.md) | [世界地图](http://map.mangocraft.cn:2087/)
 
 
-### 加入游戏
-
 文中[绿色字体](https://mangocraft.gitee.io/wiki/#/) 均可以点击，查看详细内容
+
 
 ## 入服准备
 
