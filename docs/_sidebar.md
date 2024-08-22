@@ -17,9 +17,9 @@
 - 进阶指南
 
   - [创建自己的组织](createteam.md)
+  - [组织规定](teamrule.md)
   - [官方建筑展示](showbuilding.md)
   - [创造激励计划](creation.md)
-  - [加入生电服](joinrss.md)
 
 - [更新日志](changelog.md)
                                                                                                                
