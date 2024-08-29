@@ -26,7 +26,7 @@
 JE互通线路1
 
 ```
-server.mangocraft.cn
+je.server.mangocraft.cn
 ```
 
 BE互通线路1
