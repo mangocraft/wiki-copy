@@ -29,16 +29,10 @@ JE互通线路1
 server.mangocraft.cn
 ```
 
-JE互通线路2
-
-```
-nn.server.mangocraft.cn:36005
-```
-
 BE互通线路1
 
 ```
-nn.server.mangocraft.cn:36003
+be.server.mangocraft.cn:36003
 ```
 
 如果您仍有延迟过高、网络抖动等问题，请联系管理组寻求帮助。
