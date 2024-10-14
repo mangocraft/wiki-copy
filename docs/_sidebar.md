@@ -8,7 +8,7 @@
 - 新人指南
 
   - [关于Minecraft](aboutmc.md)
-  - [进服第一天](firstday.md)
+  - [进服第一天](https://docs.qq.com/doc/DQmdocHVpc2pqc0RU)
   - [经济系统](economic.md)
   - [圈地](land.md)
   - [箱子市场](qs.md)
