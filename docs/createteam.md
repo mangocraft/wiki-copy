@@ -28,16 +28,16 @@
 
 ## 组织创建步骤
 
-1.组长填写队伍申请链接：https://docs.qq.com/form/page/DZEhDSXJPUldEamtW
+1.组长填写组织申请链接：https://docs.qq.com/form/page/DZEhDSXJPUldEamtW
 
 2.组长填写心理测试问卷（请认真对待，结果过于离谱的不会通过审核。结果将严格保密）：
 https://www.wjx.cn/vm/tHAAsjy.aspx# 
 
 3.联系@老王，进行初步审核
 
-4.初步审核通过后，将在各大组织内进行1-3天公示，以排查组织创建风险
+4.初步审核通过后，将根据情况进行二次审核或公示，以排查组织创建风险
 
-5.如公示通过，将于 https://docs.qq.com/sheet/DZHdrVnVvb3J2ZlRh?tab=BB08J2 公示
+5.如通过，将于 https://docs.qq.com/sheet/DZHdrVnVvb3J2ZlRh?tab=BB08J2 公示
 
 
 ## 创建组织奖励
