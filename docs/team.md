@@ -28,7 +28,7 @@
 目前，服务器包含多个组织规划区和多个服务器级规划区，服务器规划区有三城区、互通区、花都区、一个服务器级规划区内包含多个组织、建筑群和小镇。
 
 各组织及建筑群所在位置可大致参考粉丝服轨道交通规划图：
-![metro](https://mangocraft.github.io/image/metro.png)
+![metro](https://github.image.mgcraft.net/metro.png)
 
 ### 三城区
 
